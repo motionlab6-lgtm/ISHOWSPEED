@@ -1,7 +1,7 @@
 {
   "name": "ISHOWSPEED",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Technoblade",
     "password": "",
     "type": "offline"
   },
@@ -27,7 +27,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
